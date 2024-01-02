@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Akhil-py
 - 👀 I’m interested in building software
-- 🌱 I’m currently a student at UCSD, majoring in Math and Computer Science
-- 📫 How to reach me: Instagram (@akhil_ramshankar), Discord (Sacred#6334)
+- 🌱 I'm a student at UCSD, majoring in Math and Computer Science
+- 📫 How to reach me: Instagram (@akhil_ramshankar), Email (aramshankar@ucsd.edu)
