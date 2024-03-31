@@ -1,4 +1,4 @@
-## Hello! I'm Akhil
+# Hello! I'm Akhil
 <br />
 
 I'm an aspiring software engineer from Sri Lanka 🇱🇰
