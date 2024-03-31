@@ -1,5 +1,4 @@
-<p align="center"><a href="https://Akhil-py.github.io"><img width="80%" alt="Hello, I'm Akhil. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+# Hello! I'm Akhil
 <br />
 
 I'm an aspiring software engineer from Sri Lanka 🇱🇰
