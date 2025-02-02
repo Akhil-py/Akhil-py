@@ -5,7 +5,9 @@ I'm an aspiring software engineer from Sri Lanka 🇱🇰
 
 **About me**
 
-- 💼 Student at UCSD - Majoring in Mathematics and Computer Science with a minor in Cognitive Science
+- 💼 SWE @ UCSD IT Services 
+
+- 🎓 Student at UC San Diego - Majoring in Mathematics and Computer Science
 
 - ❤️ I love working on projects and building software
 
