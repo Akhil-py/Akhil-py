@@ -17,7 +17,7 @@
     <ul align="left">
         <li>🔬 I work as a Software Engineer in the IT Services department at UC San Diego.</li>
         <li>💸 I build autonomous soccer-playing robots for fun and compete internationally as part of a team.</li>
-        <li>💻 I like building projects in the systems programming realm.</li>
+        <li>💻 I like building projects in the systems programming realm (check out my emulators!).</li>
         <li>☕ I'm also a Vice Chair of the IEEE Student Branch at UC San Diego.</li>
         <li>🌲 Besides programming, my other hobbies include snorkeling, swimming, watching F1, and playing video games.</li>
     </ul>
