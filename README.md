@@ -4,51 +4,69 @@
 
 ---
 
-## 👨‍💻 Who Am I?
-
-Hi! I'm **Akhil Ram Shankar**, a Mathematics and Computer Science major at **UC San Diego** 🎓. I’m passionate about:
-- 🔧 **Systems programming**
-- ⚙️ **Backend infrastructure**
-- 🚀 **Distributed systems**
-- 🕹️ **Emulators & low-level projects**
-
-Outside of programming, you’ll probably find me:
-- 🏖️ Snorkeling at the beach  
-- 🏎️ Watching Formula 1  
-- 🍿 Bingeing a show  
-- 🤖 Building autonomous robots for RoboCup  
+<div align="center">
+  <h2>👨‍💻 Who Am I?</h2>
+  <p>
+    I'm <strong>Akhil Ram Shankar</strong>, a Math + CS student at <strong>UC San Diego</strong> 🎓.<br>
+    I build systems-level projects, distributed backends, and emulators for fun.<br>
+    When I’m not coding, I’m probably snorkeling 🏖️, watching F1 🏎️, or binging a show 🍿.
+  </p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 
-| Project | Description |
-|--------|-------------|
-| [**raft-kv**](https://github.com/Akhil-py/raft-kv) | 🗃️ A distributed key-value store built in **Rust** using the **Raft consensus algorithm**. Designed for fault-tolerance and system resilience. |
-| [**chip8-emulator**](https://github.com/Akhil-py/chip8-emulator) | 🕹️ An emulator for the **CHIP-8** architecture written in **C++**. Displays, opcodes, and timers all from scratch. |
-| [**Triton2Shop**](https://github.com/Akhil-py/Triton2Shop) | 🛒 A fullstack **TypeScript** app for UCSD students to buy/sell used goods on campus. Built with React, Firebase, and Tailwind. |
-| [**NES-emulator-rust**](https://github.com/Akhil-py/NES-emulator-rust) *(WIP)* | 🎮 A work-in-progress NES emulator written entirely in **Rust**. Focused on performance and accuracy. |
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/Akhil-py/raft-kv"><b>raft-kv</b></a></td>
+      <td>🗃️ A distributed key-value store in <b>Rust</b> using the Raft consensus algorithm.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Akhil-py/chip8-emulator"><b>chip8-emulator</b></a></td>
+      <td>🕹️ A CHIP-8 emulator built in <b>C++</b> from scratch — graphics, opcodes, timers.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Akhil-py/Triton2Shop"><b>Triton2Shop</b></a></td>
+      <td>🛍️ A fullstack TypeScript app for UCSD students to buy/sell items on campus.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Akhil-py/NES-emulator-rust"><b>NES-emulator-rust</b></a></td>
+      <td>🎮 A WIP NES emulator in <b>Rust</b> focused on low-level accuracy and performance.</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-`Rust` • `C++` • `TypeScript` • `Python` • `Go` *(learning)*  
-`React` • `Next.js` • `Docker` • `AWS Lambda` • `Airflow` • `SQL` • `Firebase`  
-`Tokio` • `gRPC` • `Axum` • `Actix` • `Linux` • `Git`  
-
----
-
-## 💡 What I'm Working On
-
-- 🌐 Building a **distributed KV store with log replication** (`raft-kv`)
-- 🎯 Learning **low-level systems internals** via emulators
-- 👥 Contributing to open source (targeting `tokio`, `sled`)
-- 📝 Writing technical content about Rust & systems
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+  <p>
+    <code>Rust</code> • <code>C++</code> • <code>TypeScript</code> • <code>Python</code> • <code>Go</code> <br/>
+    <code>React</code> • <code>Next.js</code> • <code>Docker</code> • <code>AWS Lambda</code> • <code>Airflow</code> <br/>
+    <code>Tokio</code> • <code>Axum</code> • <code>Firebase</code> • <code>SQL</code>
+  </p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
+  <h2>💡 What I'm Working On</h2>
+  <p>
+    🧠 Building <b>raft-kv</b> – a production-ready Rust-based distributed key-value store <br/>
+    🔬 Exploring low-level emulation via NES and CHIP-8 architecture <br/>
+    🌍 Diving into open source (watching <code>tokio</code>, <code>sled</code>, and <code>zellij</code>) <br/>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil-py&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -57,16 +75,22 @@ Outside of programming, you’ll probably find me:
 
 ---
 
-## 🤝 Let's Connect
-
-I'm currently seeking **backend/software infrastructure internship & new grad roles** for 2025!  
-Feel free to reach out — I’m always excited to collaborate or just chat!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-ramshankar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramshankar.akhil@gmail.com)
+<div align="center">
+  <h2>🤝 Let's Connect!</h2>
+  <p>
+    I’m open to <strong>backend, infra, and systems SWE roles</strong> for 2025! <br/>
+    Always happy to collaborate, contribute, or chat tech 👇
+  </p>
+  <a href="https://linkedin.com/in/akhil-ramshankar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ramshankar.akhil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <em>"Build things so good they become unignorable."</em>
-</p>
+</div>
