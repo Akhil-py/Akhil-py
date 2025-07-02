@@ -69,8 +69,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-py&show_icons=true&theme=green-blue&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-py&layout=compact&theme=green-blue&hide_border=true&hide=java,GLSL" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-py&show_icons=true&theme=blue-green&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-py&layout=compact&theme=blue-green&hide_border=true&hide=java,GLSL" width="40%" />
 </p>
 
 ---
