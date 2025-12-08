@@ -10,6 +10,7 @@
     I'm <strong>Akhil Ram Shankar</strong>, a Math + CS student at <strong>UC San Diego</strong> 🎓.<br>
     I build systems-level projects, distributed backends, and emulators for fun.<br>
     When I’m not coding, I’m probably snorkeling 🏖️, watching F1 🏎️, or binging a show 🍿.
+    👉 <a href="https://www.akhilramshankar.tech"><b>Check out my portfolio</b></a>
   </p>
 </div>
 
