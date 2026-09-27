@@ -79,7 +79,6 @@
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
   <p>
-    I’m open to <strong>backend, infra, and systems SWE roles</strong> for 2025! <br/>
     Always happy to collaborate, contribute, or chat tech 👇
   </p>
   <a href="https://linkedin.com/in/akhil-ramshankar">
