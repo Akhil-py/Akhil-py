@@ -7,7 +7,7 @@
 <div align="center">
   <h2>👨‍💻 Who Am I?</h2>
   <p>
-    I'm <strong>Akhil Ram Shankar</strong>, a Math + CS student at <strong>UC San Diego</strong> 🎓.<br>
+    I'm <strong>Akhil Ram Shankar</strong>, a Software Development Engineer at Amazon Web Services. I studied Math + CS at <strong>UC San Diego</strong> 🎓.<br>
     I build systems-level projects, distributed backends, and emulators for fun.<br>
     When I’m not coding, I’m probably snorkeling 🏖️, watching F1 🏎️, or binging a show 🍿.<br><br>
     👉 <a href="https://www.akhilramshankar.tech"><b>Check out my portfolio</b></a>
