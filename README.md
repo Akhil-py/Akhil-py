@@ -66,17 +66,6 @@
 ---
 
 <div align="center">
-  <h2>📈 GitHub Stats</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-py&show_icons=true&theme=blue-green&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-py&layout=compact&theme=blue-green&hide_border=true&hide=java,GLSL" width="40%" />
-</p>
-
----
-
-<div align="center">
   <h2>🤝 Let's Connect!</h2>
   <p>
     Always happy to collaborate, contribute, or chat tech 👇
